@@ -1,0 +1,10 @@
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\ProjectLota.csproj.AssemblyReference.cache
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\ProjectLota.LotaJammer.resources
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\ProjectLota.Properties.Resources.resources
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\ProjectLota.csproj.GenerateResource.cache
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\ProjectLota.csproj.CoreCompileInputs.cache
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\bin\Release\LotaJammer.exe.config
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\bin\Release\LotaJammer.exe
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\bin\Release\LotaJammer.pdb
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\LotaJammer.exe
+C:\Users\Azis\source\repos\ProjectLota\ProjectLota\obj\Release\LotaJammer.pdb
